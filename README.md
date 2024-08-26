@@ -11,7 +11,6 @@ This is a simple and responsive notes site built using React, Tailwind CSS, and 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 
 ## Installation
 
